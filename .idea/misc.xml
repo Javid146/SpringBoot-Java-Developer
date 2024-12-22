@@ -48,6 +48,8 @@
         <option value="$PROJECT_DIR$/Spring-08-MVC-Model/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-11-ORM-Mapping-OnetoOne/pom.xml" />
         <option value="$PROJECT_DIR$/Spring-12-ORM-OneToMany-ManyTo/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-19-REST-Security-Keycloak-LicenseApp/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-19-REST-Security-Keycloak-OrganizationsApp/pom.xml" />
       </list>
     </option>
     <option name="ignoredFiles">
