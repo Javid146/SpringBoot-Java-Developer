@@ -11,25 +11,27 @@
         <module name="Spring-23-UnitTesting-MockMvc" />
         <module name="Spring-18-Rest-OpenApi3" />
         <module name="SpringBoot-14-ORM-OneToMany-ManyToMany" />
-        <module name="SpringBoot-12-ORM-TableCreation" />
-        <module name="SpringBoot-09-Spring-Thymeleaf" />
         <module name="Spring-22-UnitTesting-Mockito" />
         <module name="SpringBoot-10-Spring-Practice" />
-        <module name="Spring-17-Rest-ConsumingApis" />
-        <module name="Spring-04-Abstraction" />
         <module name="Spring-01-Core-Ioc" />
-        <module name="Spring-07-MVC-Controller" />
         <module name="Spring-03-Core-DI" />
-        <module name="Spring-05-BeanScope" />
         <module name="Spring-02-Core_Wiring" />
-        <module name="Spring-11-ORM-Mapping-OnetoOne" />
         <module name="Spring-06-SpringBoot-Demo" />
-        <module name="SpringBoot-15-ORM-CinemaLab" />
-        <module name="SpringBoot-13-ORM-Mapping-OneToOne" />
         <module name="Spring-08-MVC-Model" />
         <module name="Spring-20-AOP" />
         <module name="SpringBoot-16-ORM-Queries" />
         <module name="Spring-12-ORM-OneToMany-ManyTo" />
+        <module name="SpringBoot-12-ORM-TableCreation" />
+        <module name="SpringBoot-09-Spring-Thymeleaf" />
+        <module name="Spring-17-Rest-ConsumingApis" />
+        <module name="Spring-04-Abstraction" />
+        <module name="Spring-07-MVC-Controller" />
+        <module name="Spring-05-BeanScope" />
+        <module name="Spring-11-ORM-Mapping-OnetoOne" />
+        <module name="SpringBoot-15-ORM-CinemaLab" />
+        <module name="Spring-19-REST-Security-Keycloak-OrganizationsApp" />
+        <module name="SpringBoot-13-ORM-Mapping-OneToOne" />
+        <module name="Spring-19-REST-Security-Keycloak-LicenseApp" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
@@ -51,8 +53,6 @@
       <module name="Spring-13-ORM-CinemaLab" target="11" />
       <module name="Spring-17-Rest-ConsumingApis (1)" target="11" />
       <module name="Spring-18-Rest-OpenApi3 (1)" target="11" />
-      <module name="Spring-19-REST-Security-Keycloak-LicenseApp" target="17" />
-      <module name="Spring-19-REST-Security-Keycloak-OrganizationsApp" target="17" />
       <module name="Spring-20-AOP (1)" target="11" />
       <module name="Spring-21-UnitTesting-JUnit5 (1)" target="11" />
       <module name="Spring-22-UnitTesting-Mockito (1)" target="11" />
