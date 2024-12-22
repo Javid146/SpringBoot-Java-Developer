@@ -9,7 +9,7 @@
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
     <groupId>com.cydeo</groupId>
-    <artifactId>SpringBoot-11-Spring-Practice</artifactId>
+    <artifactId>SpringBoot-10-Spring-Practice</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>SpringBook-11-Spring-Practice</name>
     <description>SpringBook-11-Spring-Practice</description>

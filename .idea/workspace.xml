@@ -5,10 +5,30 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="86f509de-1989-4a9f-9447-5366ad401ee6" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/.idea/compiler.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-08-Spring-MVC-Model/src/main/java/com/cydeo/controller/MentorController.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-08-Spring-MVC-Model/src/main/java/com/cydeo/controller/MentorController.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-08-Spring-MVC-Model/src/main/resources/templates/car/car-info.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-08-Spring-MVC-Model/src/main/resources/templates/car/car-info.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-08-Spring-MVC-Model/src/main/resources/templates/student/welcome.html" beforeDir="false" afterPath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-08-Spring-MVC-Model/src/main/resources/templates/student/welcome.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/repository/CarRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/repository/CarRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/.mvn/wrapper/maven-wrapper.jar" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/.mvn/wrapper/maven-wrapper.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/mvnw" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/pom.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/Spring10OrmTableCreationApplication.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/bootstrap/DataGenerator.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Car.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/CreditAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/DebitAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/entity/Student.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/enums/Gender.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/java/com/cydeo/repository/CarRepository.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/resources/application.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/resources/data.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/main/resources/schema2.sql" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/src/test/java/com/cydeo/Spring10OrmTableCreationApplicationTests.java" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-12-ORM-OneToMany-ManyTo/src/main/java/com/cydeo/entity/Payment.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-12-ORM-OneToMany-ManyTo/src/main/java/com/cydeo/entity/Payment.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-21-UnitTesting-JUnit5/src/main/java/Calculator.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-21-UnitTesting-JUnit5/src/main/java/Calculator.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-21-UnitTesting-JUnit5/src/test/java/CalculatorParameterizedTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-21-UnitTesting-JUnit5/src/test/java/CalculatorParameterizedTest.java" afterDir="false" />
@@ -68,6 +88,18 @@
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1" />
     <option name="ROOT_SYNC" value="DONT_SYNC" />
   </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Javid146&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/Javid146/SpringBoot-Java-Developer.git&quot;,
+    &quot;accountId&quot;: &quot;9848c140-c705-425c-be96-3fedcc3078a0&quot;
+  }
+}</component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-23-UnitTesting-MockMvc/src/test/java/com/cydeo/controller/WelcomeControllerTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
@@ -90,84 +122,84 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.CydeoAPp.executor": "Run",
-    "Application.CydeoApp (1).executor": "Run",
-    "Application.CydeoApp.executor": "Run",
-    "Application.CydeoApplication.executor": "Run",
-    "Application.DealerApp.executor": "Run",
-    "Application.Main.executor": "Run",
-    "Application.com.cydeo.CydeoApp.executor": "Run",
-    "Application.com.cydeo.stereotype_annotation.CydeoApp.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Downloaded.Files.Path.Enabled": "false",
-    "Gradle.Build Spring-11-ORM-TableCreation.executor": "Run",
-    "JUnit.CydeoApplicationTests.executor": "Run",
-    "JUnit.ProjectServiceImplTest.getByProjectCode_exception_test.executor": "Run",
-    "JUnit.ProjectServiceImplTest.save_test.executor": "Run",
-    "JUnit.Spring08MvcModelApplicationTests.contextLoads.executor": "Run",
-    "JUnit.SpringBook10SpringPracticeApplicationTests.executor": "Run",
-    "JUnit.SpringBook11SpringPracticeApplicationTests.executor": "Run",
-    "JUnit.SpringBoot09SpringThymeleafApplicationTests.executor": "Run",
-    "JUnit.SpringBoot15OrmCinemaLabApplicationTests.executor": "Run",
-    "JUnit.StudentControllerTest.executor": "Run",
-    "JUnit.TaskServiceImplTest.findById_test.executor": "Run",
-    "JUnit.UserServiceImplTest.deleteByUserName_test.executor": "Run",
-    "JUnit.UserServiceImplTest.executor": "Run",
-    "JUnit.WelcomeControllerTest.welcome.executor": "Run",
-    "JUnit.WelcomeControllerTest.welcome2.executor": "Run",
-    "Maven.Spring-08-MVC-Model [install].executor": "Run",
-    "Repository.Attach.Annotations": "false",
-    "Repository.Attach.JavaDocs": "false",
-    "Repository.Attach.Sources": "false",
-    "RequestMappingsPanelOrder0": "0",
-    "RequestMappingsPanelOrder1": "1",
-    "RequestMappingsPanelWidth0": "75",
-    "RequestMappingsPanelWidth1": "75",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "Spring Boot.ControllerApplication.executor": "Run",
-    "Spring Boot.CydeoApplication.executor": "Run",
-    "Spring Boot.Spring06SpringBootDemoApplication.executor": "Run",
-    "Spring Boot.Spring07MvcControllerApplication.executor": "Run",
-    "Spring Boot.Spring08MvcModelApplication.executor": "Run",
-    "Spring Boot.Spring111OrmTableCreationApplication.executor": "Run",
-    "Spring Boot.Spring11OrmTableCreationApplication (1).executor": "Run",
-    "Spring Boot.Spring11OrmTableCreationApplication.executor": "Run",
-    "Spring Boot.Spring23UnitTestingMockMvcApplication.executor": "Run",
-    "Spring Boot.SpringBook10SpringPracticeApplication.executor": "Run",
-    "Spring Boot.SpringBook11SpringPracticeApplication.executor": "Run",
-    "Spring Boot.SpringBoot09SpringThymeleafApplication (1).executor": "Run",
-    "Spring Boot.SpringBoot09SpringThymeleafApplication.executor": "Run",
-    "Spring Boot.SpringBoot12OrmTableCreationApplication.executor": "Run",
-    "Spring Boot.SpringBoot13OrmMappingOneToOneApplication.executor": "Run",
-    "Spring Boot.SpringBoot14OrmOneToManyManyToManyApplication.executor": "Run",
-    "Spring Boot.SpringBoot15OrmCinemaLabApplication.executor": "Run",
-    "Spring Boot.SpringBoot16OrmQueriesApplication.executor": "Run",
-    "git-widget-placeholder": "part__2",
-    "ignore.virus.scanning.warn.message": "true",
-    "jdk.selected.JAVA_MODULE": "17 (4)",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Dell/IdeaProjects/Cydeo-JD-AL005-spring1/Spring-13-ORM-CinemaLab",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/Java Developer/src/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.3413793",
-    "run.configurations.included.in.services": "true",
-    "settings.editor.selected.configurable": "configurable.group.tools",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.CydeoAPp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CydeoApp (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.CydeoApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.CydeoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Application.DealerApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.cydeo.CydeoApp.executor&quot;: &quot;Run&quot;,
+    &quot;Application.com.cydeo.stereotype_annotation.CydeoApp.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
+    &quot;Gradle.Build Spring-11-ORM-TableCreation.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.CydeoApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceImplTest.getByProjectCode_exception_test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.ProjectServiceImplTest.save_test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.Spring08MvcModelApplicationTests.contextLoads.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringBook10SpringPracticeApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringBook11SpringPracticeApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringBoot09SpringThymeleafApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.SpringBoot15OrmCinemaLabApplicationTests.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.StudentControllerTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.TaskServiceImplTest.findById_test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceImplTest.deleteByUserName_test.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.UserServiceImplTest.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WelcomeControllerTest.welcome.executor&quot;: &quot;Run&quot;,
+    &quot;JUnit.WelcomeControllerTest.welcome2.executor&quot;: &quot;Run&quot;,
+    &quot;Maven.Spring-08-MVC-Model [install].executor&quot;: &quot;Run&quot;,
+    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
+    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
+    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
+    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
+    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
+    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;Spring Boot.ControllerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.CydeoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Spring06SpringBootDemoApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Spring07MvcControllerApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Spring08MvcModelApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Spring111OrmTableCreationApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Spring11OrmTableCreationApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Spring11OrmTableCreationApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.Spring23UnitTestingMockMvcApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBook10SpringPracticeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBook11SpringPracticeApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBoot09SpringThymeleafApplication (1).executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBoot09SpringThymeleafApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBoot12OrmTableCreationApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBoot13OrmMappingOneToOneApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBoot14OrmOneToManyManyToManyApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBoot15OrmCinemaLabApplication.executor&quot;: &quot;Run&quot;,
+    &quot;Spring Boot.SpringBoot16OrmQueriesApplication.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;JavaDeveloper__mainBranch&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17 (4)&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/IdeaProjects/Java Developer/SpringBoot-10-Spring-Practice&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Dell/IdeaProjects/Java Developer/src/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.4361335&quot;,
+    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;project.propVCSSupport.DirectoryMappings&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
-  "keyToStringList": {
-    "DatabaseDriversLRU": [
-      "postgresql"
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
     ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\IdeaProjects\Java Developer\Spring-08-Spring-MVC-Model" />
@@ -177,11 +209,11 @@
       <recent name="C:\Users\Dell\IdeaProjects\Java Developer\Spring-05-BeanScope\src\main\java\com\cydeo\proxy" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dell\IdeaProjects\Java Developer" />
       <recent name="C:\Users\Dell\IdeaProjects\Java Developer\SpringBoot-11-Spring-Practice\src\main\resources\templates\" />
       <recent name="C:\Users\Dell\IdeaProjects\Java Developer\SpringBoot-09-Spring-Thymeleaf\src\main\resources\templates\" />
       <recent name="C:\Users\Dell\IdeaProjects\Java Developer\SpringBoot-09-Spring-Thymeleaf\src\main\resources\static" />
       <recent name="C:\Users\Dell\IdeaProjects\Java Developer\Spring-08-MVC-Model\src\main\resources\static" />
-      <recent name="C:\Users\Dell\IdeaProjects\Java Developer\Spring-08-MVC-Model\src\main\resources\templates\" />
     </key>
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
       <recent name="com.cydeo" />
@@ -282,6 +314,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="Spring-20-AOP" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="Spring-20-AOP" />
+      <option name="filePath" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="ControllerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Spring-07-MVC-Controller" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.ControllerApplication" />
@@ -312,6 +357,13 @@
     </configuration>
     <configuration name="Spring08SpringMvcModelApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Spring-08-Spring-MVC-Model" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Spring08SpringMvcModelApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring08SpringMvcModelApplication (2)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Spring-08-Spring-MVC-Model (1)" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Spring08SpringMvcModelApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -359,9 +411,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Spring17RestConsumingApisApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Spring-17-Rest-ConsumingApis" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Spring17RestConsumingApisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Spring17RestConsumingApisApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Spring-17-Rest-ConsumingApis" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Spring17RestConsumingApisApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring18RestOpenApi3Application (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Spring-18-Rest-OpenApi3" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Spring18RestOpenApi3Application" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -387,9 +453,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Spring20AopApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Spring-20-AOP" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Spring20AopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Spring20AopApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Spring-20-AOP" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Spring20AopApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Spring23UnitTestingMockMvcApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Spring-23-UnitTesting-MockMvc" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Spring23UnitTestingMockMvcApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -409,7 +489,7 @@
       </method>
     </configuration>
     <configuration name="SpringBook11SpringPracticeApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
-      <module name="SpringBoot-11-Spring-Practice" />
+      <module name="SpringBoot-10-Spring-Practice" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.SpringBook11SpringPracticeApplication" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -464,6 +544,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Sprint22UnitTestingMockitoApplication (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="Spring-22-UnitTesting-Mockito" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Sprint22UnitTestingMockitoApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Sprint22UnitTestingMockitoApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
       <module name="Spring-22-UnitTesting-Mockito" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.cydeo.Sprint22UnitTestingMockitoApplication" />
@@ -472,27 +559,32 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="JUnit.StudentControllerTest" />
-      <item itemvalue="JUnit.WelcomeControllerTest.welcome" />
-      <item itemvalue="JUnit.WelcomeControllerTest.welcome2" />
       <item itemvalue="JUnit.ProjectServiceImplTest.getByProjectCode_exception_test" />
+      <item itemvalue="JUnit.StudentControllerTest" />
       <item itemvalue="JUnit.TaskServiceImplTest.findById_test" />
-      <item itemvalue="Spring Boot.Spring17RestConsumingApisApplication" />
-      <item itemvalue="Spring Boot.Spring18RestOpenApi3Application" />
-      <item itemvalue="Spring Boot.Spring19RestSecurityKeycloakLicenseAppApplication" />
-      <item itemvalue="Spring Boot.Spring19RestSecurityKeycloakOrganizationsAppApplication" />
-      <item itemvalue="Spring Boot.Spring20AopApplication" />
+      <item itemvalue="JUnit.WelcomeControllerTest.welcome2" />
+      <item itemvalue="JUnit.WelcomeControllerTest.welcome" />
       <item itemvalue="Spring Boot.ControllerApplication" />
       <item itemvalue="Spring Boot.CydeoApplication" />
       <item itemvalue="Spring Boot.Spring06SpringBootDemoApplication" />
       <item itemvalue="Spring Boot.Spring08MvcModelApplication" />
       <item itemvalue="Spring Boot.Spring08SpringMvcModelApplication (1)" />
+      <item itemvalue="Spring Boot.Spring08SpringMvcModelApplication (2)" />
       <item itemvalue="Spring Boot.Spring08SpringMvcModelApplication" />
       <item itemvalue="Spring Boot.Spring10OrmTableCreationApplication" />
       <item itemvalue="Spring Boot.Spring10PracticeApplication" />
       <item itemvalue="Spring Boot.Spring11OrmMappingOnetoOneApplication" />
       <item itemvalue="Spring Boot.Spring11OrmTableCreationApplication" />
       <item itemvalue="Spring Boot.Spring12OrmOneToManyManyToApplication" />
+      <item itemvalue="Spring Boot.Spring17RestConsumingApisApplication (1)" />
+      <item itemvalue="Spring Boot.Spring17RestConsumingApisApplication" />
+      <item itemvalue="Spring Boot.Spring18RestOpenApi3Application (1)" />
+      <item itemvalue="Spring Boot.Spring18RestOpenApi3Application" />
+      <item itemvalue="Spring Boot.Spring19RestSecurityKeycloakLicenseAppApplication" />
+      <item itemvalue="Spring Boot.Spring19RestSecurityKeycloakOrganizationsAppApplication" />
+      <item itemvalue="Spring Boot.Spring20AopApplication (1)" />
+      <item itemvalue="Spring Boot.Spring20AopApplication" />
+      <item itemvalue="Spring Boot.Spring23UnitTestingMockMvcApplication (1)" />
       <item itemvalue="Spring Boot.Spring23UnitTestingMockMvcApplication" />
       <item itemvalue="Spring Boot.SpringBook10SpringPracticeApplication" />
       <item itemvalue="Spring Boot.SpringBook11SpringPracticeApplication" />
@@ -503,6 +595,7 @@
       <item itemvalue="Spring Boot.SpringBoot14OrmOneToManyManyToManyApplication" />
       <item itemvalue="Spring Boot.SpringBoot15OrmCinemaLabApplication" />
       <item itemvalue="Spring Boot.SpringBoot16OrmQueriesApplication" />
+      <item itemvalue="Spring Boot.Sprint22UnitTestingMockitoApplication (1)" />
       <item itemvalue="Spring Boot.Sprint22UnitTestingMockitoApplication" />
     </list>
     <recent_temporary>
@@ -582,6 +675,12 @@
       <workItem from="1734666512760" duration="12003000" />
       <workItem from="1734836608343" duration="5970000" />
       <workItem from="1734853221054" duration="3960000" />
+      <workItem from="1734863899572" duration="249000" />
+      <workItem from="1734864652237" duration="16000" />
+      <workItem from="1734865134486" duration="2103000" />
+      <workItem from="1734867271761" duration="107000" />
+      <workItem from="1734902741985" duration="716000" />
+      <workItem from="1734903466161" duration="70000" />
     </task>
     <servers />
   </component>
