@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="FrameworkDetectionExcludesConfiguration">
+    <file type="web" url="file://$PROJECT_DIR$/Spring-11-ORM-TableCreation" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/Spring-01-Core-Ioc/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-02-Core_Wiring/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-03-Core-DI/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-04-Abstraction/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-05-BeanScope/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-06-SpringBoot-Demo/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-09-Spring-Thymeleaf/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-01-Core-Ioc/SpringBoot-13-ORM-Mapping-OneToOne/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-07-MVC-Controller/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-01-Core-Ioc/SpringBoot-14-ORM-OneToMany-ManyToMany/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-01-Core-Ioc/SpringBoot15-ORM-CinemaLab/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-01-Core-Ioc/SpringBoot-15-ORM-CinemaLab/pom.xml" />
+        <option value="$PROJECT_DIR$/SpringBoot-16-ORM-Queries/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-08-Spring-MVC-Model/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-10-ORM-TableCreation/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-11-ORM-Mapping-OnetoOne/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-12-ORM-OneToMany-ManyTo/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-21-UnitTesting-JUnit5/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-22-UnitTesting-Mockito/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-23-UnitTesting-MockMvc/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-20-AOP/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-17-Rest-ConsumingApis/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-18-Rest-OpenApi3/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-19-REST-Security-Keycloak-LicenseApp/pom.xml" />
+        <option value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-19-REST-Security-Keycloak-OrganizationsApp/pom.xml" />
+      </list>
+    </option>
+    <option name="ignoredFiles">
+      <set>
+        <option value="$PROJECT_DIR$/Spring-01-Core-Ioc/Spring-03-Core-Di/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-01-Core-Ioc/SpringBoot15-ORM-CinemaLab/pom.xml" />
+        <option value="$PROJECT_DIR$/Spring-08-Spring-MVC-Model/pom.xml" />
+      </set>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_22" project-jdk-name="17 (4)" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$" />
+  </component>
+</project>

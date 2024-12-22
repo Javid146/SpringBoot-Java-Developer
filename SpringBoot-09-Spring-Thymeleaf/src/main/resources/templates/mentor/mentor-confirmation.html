@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+  <meta charset="UTF-8">
+  <title>Title</title>
+</head>
+<body>
+
+<!--it works because we get data using " public String showForm2(@ModelAttribute("mentor")" after Register button is clicked.
+With @ModelAttribute("mentor") we do not need model.addAttribute() anymore-->
+<h1 th:text="${mentor.firstName}"></h1>
+<h1 th:text="${mentor.lastName}"></h1>
+<h1 th:text="${mentor.gender}"></h1>
+<h1 th:text="${mentor.company}"></h1>
+<h1 th:text="${mentor.email}"></h1>
+<h1 th:text="${mentor.batch}"></h1>
+<h1 th:text="${mentor.graduated}"></h1>
+
+</body>
+</html>

@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>SUBMISSION</title>
+</head>
+<body>
+FORM SUBMITTED!!!
+
+<h1 th:text="${human.name}"></h1>
+<h1 th:text="${human.surname}"></h1>
+<h1 th:text="${human.age}"></h1>
+<h1 th:text="${human.gender}"></h1>
+<h1 th:text="${human.hobby}"></h1>
+
+<div th:replace="fragments/footnote :: footnote">
+
+</div>
+</body>
+</html>

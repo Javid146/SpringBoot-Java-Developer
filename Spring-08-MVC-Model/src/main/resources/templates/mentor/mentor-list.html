@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html xmlns:ts="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+</head>
+<body>
+
+<table>
+    <thead>
+    <tr>
+        <td>FIRST NAME</td>
+        <td>LAST NAME</td>
+        <td>AGE</td>
+        <td>GENDER</td>
+    </tr>
+    </thead>
+
+    <tbody>
+    <tr th:each="mentor : ${mentorList}">
+        <td th:text="${mentor.firstName}"></td>
+        <td th:text="${mentor.lastName}"></td>
+        <td th:text="${mentor.age}"></td>
+        <td th:text="${mentor.gender}"></td>
+    </tr>
+<!--    <tr>-->
+<!--        <td th:text="${mentorList.get(1).getFirstName()}"></td>-->
+<!--        <td th:text="${mentorList.get(1).getLastName()}"></td>-->
+<!--        <td th:text="${mentorList.get(1).getAge()}"></td>-->
+<!--        <td th:text="${mentorList.get(1).getGender()}"></td>-->
+<!--    </tr>-->
+<!--    <tr>-->
+<!--        <td th:text="${mentorList.get(2).getFirstName()}"></td>-->
+<!--        <td th:text="${mentorList.get(2).getLastName()}"></td>-->
+<!--        <td th:text="${mentorList.get(2).getAge()}"></td>-->
+<!--        <td th:text="${mentorList.get(2).getGender()}"></td>-->
+<!--    </tr>-->
+    </tbody>
+</table>
+
+</body>
+</html>

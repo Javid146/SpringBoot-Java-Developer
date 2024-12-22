@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title th:text="#{human.profile.title}"></title>
+</head>
+<body>
+
+<div th:align="center">
+    Welcome to Javid's Profile
+</div>
+<br>
+
+<form th:action="@{/human/submit}" method="post" th:object="${human}">
+    <label>Name:</label>
+    <input type="text" th:field="*{name}">
+
+    <label>Surname:</label>
+    <input type="text" th:field="*{surname}">
+
+    <label>Age:</label>
+    <input type="text" th:field="*{age}">
+
+    <label>Hobby:</label>
+    <input type="text" th:field="*{hobby}">
+
+    <label>Adress:</label>
+    <input type="text" th:field="*{address}">
+
+    <button class="bold" type="submit">Submit</button>
+</form>
+
+</body>
+</html>

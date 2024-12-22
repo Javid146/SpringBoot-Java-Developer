@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+
+  <div th:align="center">
+    HUMAN PROFILES:
+  </div>
+</head>
+
+<body>
+
+
+
+<ul th:each="human : ${humans}">
+  <li th:text="${human.name}"></li>
+  <li th:text="${human.surname}"></li>
+  <li th:text="${human.age}"></li>
+  <li th:text="${human.address}"></li>
+</ul>
+</body>
+</html>
