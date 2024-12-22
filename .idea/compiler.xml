@@ -24,9 +24,8 @@
         <module name="Spring-11-ORM-Mapping-OnetoOne" />
         <module name="Spring-06-SpringBoot-Demo" />
         <module name="SpringBoot-15-ORM-CinemaLab" />
-        <module name="Spring-19-REST-Security-Keycloak-OrganizationsApp" />
         <module name="SpringBoot-13-ORM-Mapping-OneToOne" />
-        <module name="Spring-19-REST-Security-Keycloak-LicenseApp" />
+        <module name="Spring-13-ORM-CinemaLab" />
         <module name="Spring-10-ORM-TableCreation" />
         <module name="Spring-20-AOP" />
         <module name="SpringBoot-16-ORM-Queries" />
@@ -47,6 +46,9 @@
       <module name="Spring-11-ORM-TableCreation" target="17" />
       <module name="Spring-11-ORM-TableCreation.main" target="17" />
       <module name="Spring-11-ORM-TableCreation.test" target="17" />
+      <module name="Spring-13-ORM-CinemaLab" target="11" />
+      <module name="Spring-19-REST-Security-Keycloak-LicenseApp" target="17" />
+      <module name="Spring-19-REST-Security-Keycloak-OrganizationsApp" target="17" />
       <module name="SpringBoot-10-Practice" target="17" />
       <module name="SpringBoot-11-Spring-Practice" target="17" />
       <module name="SpringBoot-12-ORM-TableCreation" target="17" />
@@ -66,6 +68,7 @@
       <module name="Spring-11-ORM-Mapping-OnetoOne" options="-parameters" />
       <module name="Spring-11-ORM-TableCreation" options="-parameters" />
       <module name="Spring-12-ORM-OneToMany-ManyTo" options="-parameters" />
+      <module name="Spring-13-ORM-CinemaLab" options="-parameters" />
       <module name="Spring-17-Rest-ConsumingApis" options="-parameters" />
       <module name="Spring-18-Rest-OpenApi3" options="-parameters" />
       <module name="Spring-19-REST-Security-Keycloak-LicenseApp" options="-parameters" />
