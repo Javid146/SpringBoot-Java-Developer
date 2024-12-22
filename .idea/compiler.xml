@@ -11,9 +11,10 @@
         <module name="Spring-23-UnitTesting-MockMvc" />
         <module name="Spring-18-Rest-OpenApi3" />
         <module name="SpringBoot-14-ORM-OneToMany-ManyToMany" />
+        <module name="SpringBoot-12-ORM-TableCreation" />
         <module name="SpringBoot-09-Spring-Thymeleaf" />
         <module name="Spring-22-UnitTesting-Mockito" />
-        <module name="Spring-08-Spring-MVC-Model" />
+        <module name="SpringBoot-10-Spring-Practice" />
         <module name="Spring-17-Rest-ConsumingApis" />
         <module name="Spring-04-Abstraction" />
         <module name="Spring-01-Core-Ioc" />
@@ -25,8 +26,7 @@
         <module name="Spring-06-SpringBoot-Demo" />
         <module name="SpringBoot-15-ORM-CinemaLab" />
         <module name="SpringBoot-13-ORM-Mapping-OneToOne" />
-        <module name="Spring-13-ORM-CinemaLab" />
-        <module name="Spring-10-ORM-TableCreation" />
+        <module name="Spring-08-MVC-Model" />
         <module name="Spring-20-AOP" />
         <module name="SpringBoot-16-ORM-Queries" />
         <module name="Spring-12-ORM-OneToMany-ManyTo" />
@@ -37,21 +37,36 @@
           <entry name="$USER_HOME$/.gradle/caches/modules-2/files-2.1/org.projectlombok/lombok/1.18.34/ec547ef414ab1d2c040118fb9c1c265ada63af14/lombok-1.18.34.jar" />
         </processorPath>
       </profile>
+      <profile name="Annotation profile for Spring-08-Spring-MVC-Model" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <processorPath useClasspath="false">
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+          <entry name="$MAVEN_REPOSITORY$/org/projectlombok/lombok/unknown/lombok-unknown.jar" />
+        </processorPath>
+      </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="Spring-08-MVC-Model" target="17" />
+      <module name="Spring-08-Spring-MVC-Model" target="17" />
       <module name="Spring-08-Spring-MVC-Model (1)" target="11" />
+      <module name="Spring-08-Spring-MVC-Model (2)" target="17" />
       <module name="Spring-09-Spring-Thymeleaf" target="17" />
+      <module name="Spring-10-ORM-TableCreation" target="11" />
       <module name="Spring-10-Spring-Practice" target="17" />
       <module name="Spring-11-ORM-TableCreation" target="17" />
       <module name="Spring-11-ORM-TableCreation.main" target="17" />
       <module name="Spring-11-ORM-TableCreation.test" target="17" />
       <module name="Spring-13-ORM-CinemaLab" target="11" />
+      <module name="Spring-17-Rest-ConsumingApis (1)" target="11" />
+      <module name="Spring-18-Rest-OpenApi3 (1)" target="11" />
       <module name="Spring-19-REST-Security-Keycloak-LicenseApp" target="17" />
       <module name="Spring-19-REST-Security-Keycloak-OrganizationsApp" target="17" />
+      <module name="Spring-20-AOP (1)" target="11" />
+      <module name="Spring-21-UnitTesting-JUnit5 (1)" target="11" />
+      <module name="Spring-22-UnitTesting-Mockito (1)" target="11" />
+      <module name="Spring-23-UnitTesting-MockMvc (1)" target="11" />
       <module name="SpringBoot-10-Practice" target="17" />
-      <module name="SpringBoot-11-Spring-Practice" target="17" />
-      <module name="SpringBoot-12-ORM-TableCreation" target="17" />
       <module name="SpringBoot15-ORM-CinemaLab" target="17" />
     </bytecodeTargetLevel>
   </component>
@@ -62,6 +77,7 @@
       <module name="Spring-08-MVC-Model" options="-parameters" />
       <module name="Spring-08-Spring-MVC-Model" options="-parameters" />
       <module name="Spring-08-Spring-MVC-Model (1)" options="-parameters" />
+      <module name="Spring-08-Spring-MVC-Model (2)" options="-parameters" />
       <module name="Spring-09-Spring-Thymeleaf" options="-parameters" />
       <module name="Spring-10-ORM-TableCreation" options="-parameters" />
       <module name="Spring-10-Spring-Practice" options="-parameters" />
@@ -70,15 +86,20 @@
       <module name="Spring-12-ORM-OneToMany-ManyTo" options="-parameters" />
       <module name="Spring-13-ORM-CinemaLab" options="-parameters" />
       <module name="Spring-17-Rest-ConsumingApis" options="-parameters" />
+      <module name="Spring-17-Rest-ConsumingApis (1)" options="-parameters" />
       <module name="Spring-18-Rest-OpenApi3" options="-parameters" />
+      <module name="Spring-18-Rest-OpenApi3 (1)" options="-parameters" />
       <module name="Spring-19-REST-Security-Keycloak-LicenseApp" options="-parameters" />
       <module name="Spring-19-REST-Security-Keycloak-OrganizationsApp" options="-parameters" />
       <module name="Spring-20-AOP" options="-parameters" />
+      <module name="Spring-20-AOP (1)" options="-parameters" />
       <module name="Spring-22-UnitTesting-Mockito" options="-parameters" />
+      <module name="Spring-22-UnitTesting-Mockito (1)" options="-parameters" />
       <module name="Spring-23-UnitTesting-MockMvc" options="-parameters" />
+      <module name="Spring-23-UnitTesting-MockMvc (1)" options="-parameters" />
       <module name="SpringBoot-09-Spring-Thymeleaf" options="-parameters" />
       <module name="SpringBoot-10-Practice" options="-parameters" />
-      <module name="SpringBoot-11-Spring-Practice" options="-parameters" />
+      <module name="SpringBoot-10-Spring-Practice" options="-parameters" />
       <module name="SpringBoot-12-ORM-TableCreation" options="-parameters" />
       <module name="SpringBoot-13-ORM-Mapping-OneToOne" options="-parameters" />
       <module name="SpringBoot-14-ORM-OneToMany-ManyToMany" options="-parameters" />

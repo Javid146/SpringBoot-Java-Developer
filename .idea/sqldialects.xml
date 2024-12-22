@@ -1,8 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="SqlDialectMappings">
-    <file url="file://$PROJECT_DIR$/Spring-01-Core-Ioc/SpringBoot-15-ORM-CinemaLab/src/main/resources/db/migration/V1.0.1__insertdata.sql" dialect="PostgreSQL" />
-    <file url="file://$PROJECT_DIR$/Spring-01-Core-Ioc/SpringBoot-15-ORM-CinemaLab/src/main/resources/db/migration/V1.0.3__updatedata.sql" dialect="PostgreSQL" />
     <file url="file://$PROJECT_DIR$/SpringBoot-16-ORM-Queries/src/main/java/com/cydeo/repository/EmployeeRepository.java" dialect="GenericSQL" />
   </component>
 </project>
