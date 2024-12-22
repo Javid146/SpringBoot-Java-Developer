@@ -62,7 +62,7 @@
   <component name="Git.Settings">
     <option name="RECENT_BRANCH_BY_REPOSITORY">
       <map>
-        <entry key="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1" value="part-4" />
+        <entry key="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1" value="part_1" />
       </map>
     </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1" />
@@ -144,11 +144,11 @@
     "Spring Boot.SpringBoot14OrmOneToManyManyToManyApplication.executor": "Run",
     "Spring Boot.SpringBoot15OrmCinemaLabApplication.executor": "Run",
     "Spring Boot.SpringBoot16OrmQueriesApplication.executor": "Run",
-    "git-widget-placeholder": "part-3",
+    "git-widget-placeholder": "part__2",
     "ignore.virus.scanning.warn.message": "true",
     "jdk.selected.JAVA_MODULE": "17 (4)",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/Dell/IdeaProjects/Cydeo-JD-AL005-spring1/Spring-19-REST-Security-Keycloak-OrganizationsApp",
+    "last_opened_file_path": "C:/Users/Dell/IdeaProjects/Cydeo-JD-AL005-spring1/Spring-13-ORM-CinemaLab",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
