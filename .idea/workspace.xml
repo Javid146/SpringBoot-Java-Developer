@@ -60,7 +60,16 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1" value="part-4" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../Cydeo-JD-AL005-spring1" />
+    <option name="ROOT_SYNC" value="DONT_SYNC" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../Cydeo-JD-AL005-spring1/Spring-23-UnitTesting-MockMvc/src/test/java/com/cydeo/controller/WelcomeControllerTest.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
@@ -81,84 +90,84 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.CydeoAPp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CydeoApp (1).executor&quot;: &quot;Run&quot;,
-    &quot;Application.CydeoApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.CydeoApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Application.DealerApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.cydeo.CydeoApp.executor&quot;: &quot;Run&quot;,
-    &quot;Application.com.cydeo.stereotype_annotation.CydeoApp.executor&quot;: &quot;Run&quot;,
-    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
-    &quot;Downloaded.Files.Path.Enabled&quot;: &quot;false&quot;,
-    &quot;Gradle.Build Spring-11-ORM-TableCreation.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.CydeoApplicationTests.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProjectServiceImplTest.getByProjectCode_exception_test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.ProjectServiceImplTest.save_test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.Spring08MvcModelApplicationTests.contextLoads.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.SpringBook10SpringPracticeApplicationTests.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.SpringBook11SpringPracticeApplicationTests.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.SpringBoot09SpringThymeleafApplicationTests.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.SpringBoot15OrmCinemaLabApplicationTests.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.StudentControllerTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.TaskServiceImplTest.findById_test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceImplTest.deleteByUserName_test.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.UserServiceImplTest.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WelcomeControllerTest.welcome.executor&quot;: &quot;Run&quot;,
-    &quot;JUnit.WelcomeControllerTest.welcome2.executor&quot;: &quot;Run&quot;,
-    &quot;Maven.Spring-08-MVC-Model [install].executor&quot;: &quot;Run&quot;,
-    &quot;Repository.Attach.Annotations&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.JavaDocs&quot;: &quot;false&quot;,
-    &quot;Repository.Attach.Sources&quot;: &quot;false&quot;,
-    &quot;RequestMappingsPanelOrder0&quot;: &quot;0&quot;,
-    &quot;RequestMappingsPanelOrder1&quot;: &quot;1&quot;,
-    &quot;RequestMappingsPanelWidth0&quot;: &quot;75&quot;,
-    &quot;RequestMappingsPanelWidth1&quot;: &quot;75&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;Spring Boot.ControllerApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.CydeoApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.Spring06SpringBootDemoApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.Spring07MvcControllerApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.Spring08MvcModelApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.Spring111OrmTableCreationApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.Spring11OrmTableCreationApplication (1).executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.Spring11OrmTableCreationApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.Spring23UnitTestingMockMvcApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SpringBook10SpringPracticeApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SpringBook11SpringPracticeApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SpringBoot09SpringThymeleafApplication (1).executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SpringBoot09SpringThymeleafApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SpringBoot12OrmTableCreationApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SpringBoot13OrmMappingOneToOneApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SpringBoot14OrmOneToManyManyToManyApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SpringBoot15OrmCinemaLabApplication.executor&quot;: &quot;Run&quot;,
-    &quot;Spring Boot.SpringBoot16OrmQueriesApplication.executor&quot;: &quot;Run&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;part-4&quot;,
-    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
-    &quot;jdk.selected.JAVA_MODULE&quot;: &quot;17 (4)&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dell/IdeaProjects/Cydeo-JD-AL005-spring1/Spring-19-REST-Security-Keycloak-OrganizationsApp&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;C:/Users/Dell/IdeaProjects/Java Developer/src/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.3413793&quot;,
-    &quot;run.configurations.included.in.services&quot;: &quot;true&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.CydeoAPp.executor": "Run",
+    "Application.CydeoApp (1).executor": "Run",
+    "Application.CydeoApp.executor": "Run",
+    "Application.CydeoApplication.executor": "Run",
+    "Application.DealerApp.executor": "Run",
+    "Application.Main.executor": "Run",
+    "Application.com.cydeo.CydeoApp.executor": "Run",
+    "Application.com.cydeo.stereotype_annotation.CydeoApp.executor": "Run",
+    "DefaultHtmlFileTemplate": "HTML File",
+    "Downloaded.Files.Path.Enabled": "false",
+    "Gradle.Build Spring-11-ORM-TableCreation.executor": "Run",
+    "JUnit.CydeoApplicationTests.executor": "Run",
+    "JUnit.ProjectServiceImplTest.getByProjectCode_exception_test.executor": "Run",
+    "JUnit.ProjectServiceImplTest.save_test.executor": "Run",
+    "JUnit.Spring08MvcModelApplicationTests.contextLoads.executor": "Run",
+    "JUnit.SpringBook10SpringPracticeApplicationTests.executor": "Run",
+    "JUnit.SpringBook11SpringPracticeApplicationTests.executor": "Run",
+    "JUnit.SpringBoot09SpringThymeleafApplicationTests.executor": "Run",
+    "JUnit.SpringBoot15OrmCinemaLabApplicationTests.executor": "Run",
+    "JUnit.StudentControllerTest.executor": "Run",
+    "JUnit.TaskServiceImplTest.findById_test.executor": "Run",
+    "JUnit.UserServiceImplTest.deleteByUserName_test.executor": "Run",
+    "JUnit.UserServiceImplTest.executor": "Run",
+    "JUnit.WelcomeControllerTest.welcome.executor": "Run",
+    "JUnit.WelcomeControllerTest.welcome2.executor": "Run",
+    "Maven.Spring-08-MVC-Model [install].executor": "Run",
+    "Repository.Attach.Annotations": "false",
+    "Repository.Attach.JavaDocs": "false",
+    "Repository.Attach.Sources": "false",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "Spring Boot.ControllerApplication.executor": "Run",
+    "Spring Boot.CydeoApplication.executor": "Run",
+    "Spring Boot.Spring06SpringBootDemoApplication.executor": "Run",
+    "Spring Boot.Spring07MvcControllerApplication.executor": "Run",
+    "Spring Boot.Spring08MvcModelApplication.executor": "Run",
+    "Spring Boot.Spring111OrmTableCreationApplication.executor": "Run",
+    "Spring Boot.Spring11OrmTableCreationApplication (1).executor": "Run",
+    "Spring Boot.Spring11OrmTableCreationApplication.executor": "Run",
+    "Spring Boot.Spring23UnitTestingMockMvcApplication.executor": "Run",
+    "Spring Boot.SpringBook10SpringPracticeApplication.executor": "Run",
+    "Spring Boot.SpringBook11SpringPracticeApplication.executor": "Run",
+    "Spring Boot.SpringBoot09SpringThymeleafApplication (1).executor": "Run",
+    "Spring Boot.SpringBoot09SpringThymeleafApplication.executor": "Run",
+    "Spring Boot.SpringBoot12OrmTableCreationApplication.executor": "Run",
+    "Spring Boot.SpringBoot13OrmMappingOneToOneApplication.executor": "Run",
+    "Spring Boot.SpringBoot14OrmOneToManyManyToManyApplication.executor": "Run",
+    "Spring Boot.SpringBoot15OrmCinemaLabApplication.executor": "Run",
+    "Spring Boot.SpringBoot16OrmQueriesApplication.executor": "Run",
+    "git-widget-placeholder": "part-3",
+    "ignore.virus.scanning.warn.message": "true",
+    "jdk.selected.JAVA_MODULE": "17 (4)",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Dell/IdeaProjects/Cydeo-JD-AL005-spring1/Spring-19-REST-Security-Keycloak-OrganizationsApp",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "C:/Users/Dell/IdeaProjects/Java Developer/src/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.3413793",
+    "run.configurations.included.in.services": "true",
+    "settings.editor.selected.configurable": "configurable.group.tools",
+    "vue.rearranger.settings.migration": "true"
   },
-  &quot;keyToStringList&quot;: {
-    &quot;DatabaseDriversLRU&quot;: [
-      &quot;postgresql&quot;
+  "keyToStringList": {
+    "DatabaseDriversLRU": [
+      "postgresql"
     ]
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dell\IdeaProjects\Java Developer\Spring-08-Spring-MVC-Model" />
@@ -498,11 +507,11 @@
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.StudentControllerTest" />
-        <item itemvalue="JUnit.WelcomeControllerTest.welcome2" />
-        <item itemvalue="JUnit.WelcomeControllerTest.welcome" />
         <item itemvalue="JUnit.TaskServiceImplTest.findById_test" />
         <item itemvalue="JUnit.ProjectServiceImplTest.getByProjectCode_exception_test" />
+        <item itemvalue="JUnit.WelcomeControllerTest.welcome2" />
+        <item itemvalue="JUnit.WelcomeControllerTest.welcome" />
+        <item itemvalue="JUnit.StudentControllerTest" />
       </list>
     </recent_temporary>
   </component>
@@ -572,7 +581,7 @@
       <workItem from="1734643372218" duration="346000" />
       <workItem from="1734666512760" duration="12003000" />
       <workItem from="1734836608343" duration="5970000" />
-      <workItem from="1734853221054" duration="726000" />
+      <workItem from="1734853221054" duration="3960000" />
     </task>
     <servers />
   </component>
