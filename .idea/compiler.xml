@@ -32,6 +32,7 @@
         <module name="Spring-19-REST-Security-Keycloak-OrganizationsApp" />
         <module name="SpringBoot-13-ORM-Mapping-OneToOne" />
         <module name="Spring-19-REST-Security-Keycloak-LicenseApp" />
+        <module name="Spring-24-Docker" />
       </profile>
       <profile name="Gradle Imported" enabled="true">
         <outputRelativeToContentRoot value="true" />
@@ -88,6 +89,7 @@
       <module name="Spring-22-UnitTesting-Mockito (1)" options="-parameters" />
       <module name="Spring-23-UnitTesting-MockMvc" options="-parameters" />
       <module name="Spring-23-UnitTesting-MockMvc (1)" options="-parameters" />
+      <module name="Spring-24-Docker" options="-parameters" />
       <module name="SpringBoot-09-Spring-Thymeleaf" options="-parameters" />
       <module name="SpringBoot-10-Practice" options="-parameters" />
       <module name="SpringBoot-10-Spring-Practice" options="-parameters" />
