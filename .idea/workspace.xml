@@ -527,9 +527,9 @@
       </method>
     </configuration>
     <list>
+      <item itemvalue="JUnit.ProjectServiceImplTest.getByProjectCode_exception_test" />
       <item itemvalue="JUnit.StudentControllerTest.getStudent" />
       <item itemvalue="JUnit.StudentControllerTest.getStudent_service" />
-      <item itemvalue="JUnit.ProjectServiceImplTest.getByProjectCode_exception_test" />
       <item itemvalue="JUnit.TaskServiceImplTest.findById_test" />
       <item itemvalue="JUnit.WelcomeControllerTest.welcome2" />
       <item itemvalue="Spring Boot.ControllerApplication" />
@@ -652,6 +652,9 @@
       <workItem from="1734903544454" duration="3631000" />
       <workItem from="1735019767105" duration="12058000" />
       <workItem from="1735085377331" duration="119000" />
+      <workItem from="1735247276564" duration="2402000" />
+      <workItem from="1735265641742" duration="1000" />
+      <workItem from="1735332896297" duration="2237000" />
     </task>
     <servers />
   </component>
